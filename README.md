@@ -23,7 +23,7 @@ pip install -e .
 bash download.sh
 ```
 
-**🚨 After downloading checkpoints, you can directly run inference code based on our checkpoints. Please check [HERE](https://github.com/DLCV-Fall-2024/DLCV-Fall-2024-Final-2-darkmagic/edit/main/README.md#inference) (Inference part) 🚨**
+**🚨 After downloading checkpoints, you can directly run inference code based on our checkpoints. Please check [HERE](https://github.com/DLCV-Fall-2024/DLCV-Fall-2024-Final-2-darkmagic?tab=readme-ov-file#inference) (Inference part) 🚨**
 
 ## Training
 ```shell script=
